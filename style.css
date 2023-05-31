@@ -1,0 +1,67 @@
+
+#main-image{
+  background:#8B3A3A ;
+  color: #ffffff;
+}
+
+.lourd{
+  color: rgb(39, 38, 38);
+}
+
+
+.nav-item-last{
+  background-color: #8B3A3A; /* Couleur bordeaux */
+  color: #ffffff; /* Couleur du texte */
+  border: none; /* Supprime la bordure */
+  border-radius: 2px;
+  
+}
+.nav-item-last:hover{
+  background-color: #b6b5b5; /* Couleur hover */
+  
+}
+.bienvenue{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.first-button{
+  color: rgb(39, 38, 38);
+  
+}
+a.button-1{
+  border-color: black;
+}
+
+a.button-last{
+  border-color: black;
+  background-color: #b6b5b5;
+  color: black;
+}
+
+#tarifs{
+  background-color: #F2F2F2;
+}
+
+div.card{
+  padding: 20px 20px;
+  margin-bottom: 100px;
+  background-color: #215B80;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+img.card-img-top{
+  width: 100px;
+  background: white;
+  border-radius: 40px;
+  padding: 1px;
+  border: solid 1px black;
+}
+.new.nav-link{
+  padding: 10px;
+}
+
+.social-icons{
+  
+  padding: 60px;
+
+}
